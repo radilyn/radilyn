@@ -1,6 +1,6 @@
 <img width="1010" height="150" src="https://64.media.tumblr.com/10520bb3fd7d82f7c1cd7cea9218282a/tumblr_oh9s8lUC0D1t6limbo2_540.gifv"> 
 <h1 align="center" font-color="pink">Hi 👋, I'm Radilyn Ramirez</h1>
-<h3 align="center">A passionate frontend and back-end web developer from the Philippines.</h3>
+<h3 align="center">A passionate Web developer from the Philippines.</h3>
 <img align="left" alt="Coding" width="500" height="300" margin-right="3rem" src="https://www.animefeminist.com/wp-content/uploads/2019/06/type-busy-back-turned.gif">
 
 
